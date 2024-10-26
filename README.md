@@ -62,6 +62,7 @@ src/
 ├── components/
 │   ├── FieldView.tsx    # Football field layout component
 │   └── PlayerCard.tsx   # Individual player card component
+|── api.tsx              # API requests
 ├── types.ts            # TypeScript interfaces
 ├── App.tsx            # Main application component
 └── main.tsx          # Application entry point
